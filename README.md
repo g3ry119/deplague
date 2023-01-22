@@ -1,3 +1,6 @@
+# DUMBASS ME DINT SEE THAT THE PROJECT WAS OLD
+
+
 # deplague
 
 Deobfuscator for billythegoat356/Plague
