@@ -89,3 +89,7 @@ class Kyrie():
 decrypted = Kyrie.decrypt(fkyrie, key)
 
 print(decrypted)
+
+
+print(("\n"*2)+"Press ENTER to exit...")
+input()
